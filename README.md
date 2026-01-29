@@ -5,7 +5,7 @@ Tipsy Tales is a modern cocktail and bar-style landing page built with **React +
 
 ---
 ## Live Preview
-### View the live site here: **[Tipsy Tales](https://tipsytales-kappa.vercel.app/)**
+### View the live site here: **[Tipsy Tales](https://tipsytales-swart.vercel.app/)**
 
 ---
 
